@@ -1,6 +1,5 @@
 # Anomaly-Detection
 
-Sure, here's a README file for your anomaly detection project:
 
 # Video Anomaly Detection
 
@@ -67,4 +66,3 @@ This project is licensed under the [MIT License](LICENSE).
 - The DCSASS Dataset creators and contributors
 - The PyTorch, OpenCV, and scikit-learn communities
 
-Feel free to modify the README as per your project's specific requirements and add any additional sections or information as needed.
