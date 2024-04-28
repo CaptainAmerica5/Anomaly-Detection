@@ -37,7 +37,7 @@ The approach involves the following steps:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/your-username/video-anomaly-detection.git](https://github.com/CaptainAmerica5/Anomaly-Detection.git)
+git clone [https://github.com/your-username/video-anomaly-detection.git]
 ```
 
 2. Download the DCSASS Dataset from Kaggle and extract it into the project directory.
