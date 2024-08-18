@@ -41,13 +41,8 @@ git clone https://github.com/your-username/video-anomaly-detection.git
 
 2. Download the DCSASS Dataset from Kaggle and extract it into the project directory.
 
-3. Install the required dependencies:
 
-```
-pip install -r requirements.txt
-```
-
-4. Run the Jupyter Notebook or Python script to train the model and make predictions on new videos.
+3. Run the Jupyter Notebook or Python script to train the model and make predictions on new videos.
 
 ## Evaluation
 
